@@ -23,5 +23,6 @@ Usage:
 
 TODO:
 
+- [*] Python version for the noJava people
 - [ ] Handle if there is pagination
 - [ ] Delete files from the GoPro once checked that they downloaded safely
