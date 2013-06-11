@@ -14,7 +14,7 @@ java -jar ./dist/gopro-download.jar
 
 Usage:
 
-0. If you have a gopro black, you need to add a file to your memory card and restart the gopro. [Read Why](http://pocket-lifestyle.tumblr.com/hd3_black_tutorial)  The file is at [autoexec.ash](https://raw.github.com/salamanders/gopro-download/master/src/autoexec.ash) which you can right-click and save to the card's root.
+0. If you have a GoPro Black, you need to add a file to your memory card and restart the gopro. [Read Why](http://pocket-lifestyle.tumblr.com/hd3_black_tutorial)  The file is at [autoexec.ash](https://raw.github.com/salamanders/gopro-download/master/src/autoexec.ash) which you can right-click and save to the card's root.
 1. Turn on your camera's wifi in the "gopro app" control mode.
 2. Connect your PC (any OS) to the camera's wifi network.  If you don't know the password, try "goprohero"
 3. Make sure you are connected by trying to open http://10.5.5.9:8080/
